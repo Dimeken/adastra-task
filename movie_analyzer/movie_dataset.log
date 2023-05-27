@@ -1,0 +1,185 @@
+INFO:root:----- Task 1 -----
+INFO:root:Data loaded successfully.
+INFO:root:Transformations made successfully.
+INFO:root:----- Task 2 -----
+INFO:root:Number of movies: 45433
+INFO:root:----- Task 3 -----
+INFO:root:Average rating of all movies from ratings.csv: 3.53
+INFO:root:Average rating of all movies from movies_metadata.csv found in ratings.csv: 3.53
+INFO:root:----- Task 4 -----
+INFO:root:Top 5 rated movies, version 1:
+ movieId                       title  avg_rating
+  169726 The Gypsy and the Gentleman         5.0
+  132912            The Price of Sex         5.0
+  172149              Burning Secret         5.0
+  146946                 Yellow Rock         5.0
+  160329                 Lightheaded         5.0
+INFO:root:Top 5 rated movies, version 2:
+ movieId                              title  avg_rating  final_rating
+     318           The Million Dollar Hotel        4.43          5.00
+     296 Terminator 3: Rise of the Machines        4.17          4.20
+     593                            Solaris        4.15          3.98
+     260                       The 39 Steps        4.13          3.61
+     527                 Once Were Warriors        4.27          3.44
+INFO:root:----- Task 5 -----
+INFO:root:Movies released each year:
+ release_year  movies_count
+         1874             1
+         1878             1
+         1883             1
+         1887             1
+         1888             2
+         1890             5
+         1891             6
+         1892             3
+         1893             1
+         1894            13
+         1895             7
+         1896            14
+         1897             7
+         1898            13
+         1899             5
+         1900            14
+         1901            10
+         1902             2
+         1903            18
+         1904             8
+         1905             4
+         1906             7
+         1907             7
+         1908             6
+         1909             9
+         1910             7
+         1911             6
+         1912            14
+         1913            13
+         1914            19
+         1915            29
+         1916            32
+         1917            17
+         1918            16
+         1919            23
+         1920            29
+         1921            33
+         1922            33
+         1923            23
+         1924            39
+         1925            40
+         1926            49
+         1927            41
+         1928            65
+         1929            75
+         1930            80
+         1931            98
+         1932           135
+         1933           147
+         1934           138
+         1935           143
+         1936           152
+         1937           155
+         1938           127
+         1939           133
+         1940           151
+         1941           147
+         1942           146
+         1943           141
+         1944           142
+         1945           147
+         1946           127
+         1947           156
+         1948           156
+         1949           174
+         1950           184
+         1951           196
+         1952           191
+         1953           199
+         1954           191
+         1955           208
+         1956           217
+         1957           242
+         1958           220
+         1959           224
+         1960           216
+         1961           202
+         1962           228
+         1963           231
+         1964           251
+         1965           245
+         1966           302
+         1967           286
+         1968           338
+         1969           304
+         1970           347
+         1971           375
+         1972           381
+         1973           353
+         1974           343
+         1975           331
+         1976           327
+         1977           333
+         1978           317
+         1979           335
+         1980           359
+         1981           358
+         1982           368
+         1983           351
+         1984           359
+         1985           366
+         1986           386
+         1987           459
+         1988           464
+         1989           434
+         1990           423
+         1991           419
+         1992           450
+         1993           488
+         1994           535
+         1995           591
+         1996           626
+         1997           657
+         1998           714
+         1999           718
+         2000           776
+         2001           848
+         2002           889
+         2003           873
+         2004           980
+         2005          1114
+         2006          1259
+         2007          1313
+         2008          1457
+         2009          1574
+         2010          1477
+         2011          1644
+         2012          1708
+         2013          1879
+         2014          1962
+         2015          1873
+         2016          1574
+         2017           505
+INFO:root:----- Task 6 -----
+INFO:root:Movies per genre:
+                 movieId
+genre                   
+Action              6592
+Adventure           3490
+Animation           1931
+Comedy             13176
+Crime               4304
+Documentary         3930
+Drama              20244
+Family              2767
+Fantasy             2309
+Foreign             1619
+History             1398
+Horror              4671
+Music               1597
+Mystery             2464
+Romance             6730
+Science Fiction     3044
+TV Movie             766
+Thriller            7619
+War                 1322
+Western             1042
+INFO:root:----- Task 7 -----
+INFO:root:Saved to result.json file successfully.

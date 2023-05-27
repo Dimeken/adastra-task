@@ -1,0 +1,29 @@
+Problem Statement:
+You have been given a dataset containing information about various movies, 
+including their title, release year, director, genre, and ratings. 
+Your task is to write a Python program that can perform the following operations:
+
+1. Load the dataset from a CSV file.
+2. Print the number of movies in the dataset.
+3. Print the average rating of all the movies.
+4. Print the top 5 highest rated movies.
+5. Print the number of movies released each year.
+6. Print the number of movies in each genre.
+7. Save the dataset to a JSON file.
+
+Note: You are free to use any third-party libraries or packages that you feel would be helpful in completing this task.
+
+Dataset:
+The dataset is available in CSV format and can be downloaded from the following link: https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+Instructions:
+1. Write a Python program that reads the dataset from the CSV file.
+2. Use pandas to load the data into a DataFrame.
+3. Implement the required operations using the DataFrame methods and functions.
+4. Print the results to the console.
+5. Save the final DataFrame to a JSON file.
+6. Use OOP
+7. Upload the code in public GIT repository
+8. Logging, error handling, docstrings are mandatory
+9. Provide setup.py or pyproject.toml
+10. Write unittests (optional)
